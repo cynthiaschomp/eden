@@ -8,6 +8,7 @@
   <a href="#what-exists-today">What Exists Today</a> &ensp;·&ensp;
   <a href="#what-is-coming">What Is Coming</a> &ensp;·&ensp;
   <a href="#principles">Principles</a> &ensp;·&ensp;
+  <a href="#who-is-building-it">Who Is Building It</a> &ensp;·&ensp;
   <a href="#feedback">Feedback</a>
 </p>
 
@@ -41,6 +42,18 @@
 * **You approve actions.** The assistant proposes; nothing runs without your consent.
 * **Your data stays yours.** Local first.
 * **Honest by design.** The assistant says what it is, says when it does not know, and refuses work that would deceive people.
+
+---
+
+## Who Is Building It
+
+<img src="docs/assets/cynthia-schomp.png" width="132" align="left" alt="Cynthia Schomp">
+
+**Cynthia Schomp**
+
+I run a web design and marketing agency, and Eden is the tool I need to run it: one place to see everything, with an assistant I can trust to ask before it acts. I am building it for myself first and sharing it early, so that others can benefit from it too.
+
+<br clear="left">
 
 ---
 
